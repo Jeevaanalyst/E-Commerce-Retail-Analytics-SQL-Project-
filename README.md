@@ -18,7 +18,7 @@ Returns —  return_reason, return_value, net_revenue
 Payment — payment_method, payment_status
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-SQL Server Analytics : https://drive.google.com/file/d/10vymgsWgenwY5pXFx26lknM6BpjDvj9J/view?usp=sharing
+SQL Server ( SQL Queries with Analysis Output) : https://drive.google.com/file/d/10vymgsWgenwY5pXFx26lknM6BpjDvj9J/view?usp=sharing
 
 
 
