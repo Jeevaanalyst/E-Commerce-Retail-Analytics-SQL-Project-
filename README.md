@@ -20,28 +20,36 @@ Payment — payment_method, payment_status
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 SQL Server Analytics :
 
- — Data Quality Checks
+ — Data Quality Checks :
+ 
 Row counts, NULL checks, duplicate detection
 
- —  KPIs
+ —  KPIs :
+ 
  Gross Revenue → Returns → Net Revenue 
 
-— Sales Trend Analysis
+— Sales Trend Analysis :
+
 Monthly MoM growth, quarterly YTD running totals, day-of-week patterns, seasonal sale event impact (Diwali, Flash Sale, Clearance)
 
-— Product & Category Analysis
+— Product & Category Analysis :
+
 Category, subcategory share, price v/s discount bands, Top 20 products
 
- — Customer Analytics (Advanced)
+ — Customer Analytics :
+ 
  Customer Lifetime Value by segment, return rate over time
 
- — Channel & Geographic Analysis
+ — Channel & Geographic Analysis:
+ 
 Omnichannel comparison (Online vs In-Store vs Mobile App), state-level PIVOT revenue YoY, city tier breakdown
 
- — Returns & Quality
+ — Returns & Quality :
+ 
 Return rate by category and channel, return reason financial impact
 
-— Payment 
+— Payment :
+
 Payment method breakdown, risk by state
 
 
